@@ -1,0 +1,8 @@
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+backend/uploads/
+**/.npm-cache/
+*.log
+supabase/.temp/

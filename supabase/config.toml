@@ -1,0 +1,7 @@
+project_id = "ibasho"
+
+[functions.commerce]
+# Public catalog and Xendit webhooks cannot carry a user JWT. Every private
+# route verifies its bearer token with Supabase Auth; admin routes check role.
+verify_jwt = false
+entrypoint = "./functions/commerce/index.ts"

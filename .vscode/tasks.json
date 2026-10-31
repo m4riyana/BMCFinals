@@ -1,0 +1,291 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start backend (no npm)",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"backend/server.js"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		},
+		{
+			"label": "Build Flutter APK (release)",
+			"type": "shell",
+			"command": "flutter",
+			"args": [
+				"build",
+				"apk",
+				"--release"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}\\myapp",
+				"env": {
+					"JAVA_HOME": "C:\\Program Files\\Android\\Android Studio\\jbr",
+					"PATH": "C:\\Program Files\\Android\\Android Studio\\jbr\\bin;${env:PATH}"
+				}
+			},
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Install Deno for Edge validation",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				".vscode\\install-deno.ps1"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Check Supabase Edge function",
+			"type": "shell",
+			"command": "C:\\Users\\geann\\.deno\\bin\\deno.exe",
+			"args": [
+				"check",
+				"--config",
+				"supabase/functions/commerce/deno.json",
+				"supabase/functions/commerce/index.ts"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Test Supabase Xendit function",
+			"type": "shell",
+			"command": "C:\\Users\\geann\\.deno\\bin\\deno.exe",
+			"args": [
+				"test",
+				"-A",
+				"--config",
+				"supabase/functions/commerce/deno.json",
+				"supabase/functions/commerce/test/xendit.test.js"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Deploy Supabase commerce function",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"supabase/deploy-commerce.cjs"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Check payment return URL host",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"-e",
+				"require('dotenv').config({path:'backend/.env',quiet:true}); console.log(process.env.XENDIT_RETURN_URL ? new URL(process.env.XENDIT_RETURN_URL).hostname : 'unset')"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Inspect configured return URL host",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				".vscode\\check-return-url.ps1"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run backend tests",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"--test",
+				"backend/test"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Flutter storefront tests",
+			"type": "shell",
+			"command": "C:\\Flutter\\flutter\\bin\\flutter.bat",
+			"args": [
+				"test",
+				"test/storefront_test.dart"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Regenerate Supabase commerce function",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"supabase/generate-edge.cjs"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Deploy Xendit history refresh fix",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"supabase/deploy-commerce.cjs"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Diagnose Xendit order payment status",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-3a9b2bde-8f77-4850-9c8b-8ebc873c8566"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Inspect Xendit payment response",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-3a9b2bde-8f77-4850-9c8b-8ebc873c8566"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Inspect provider payment linkage",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-3a9b2bde-8f77-4850-9c8b-8ebc873c8566"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Check payment session linkage",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-3a9b2bde-8f77-4850-9c8b-8ebc873c8566"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run backend Xendit tests",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"--test",
+				"backend/test/xendit.test.js"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Confirm verified customer payment",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-3a9b2bde-8f77-4850-9c8b-8ebc873c8566",
+				"--confirm"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify Xendit payment tests",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"--test",
+				"backend/test/xendit.test.js"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify second Xendit order",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-af8c3ae2-1087-4d52-a224-da1eca3814c2",
+				"--confirm"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify payment fix in Edge function",
+			"type": "shell",
+			"command": "C:\\Users\\geann\\.deno\\bin\\deno.exe",
+			"args": [
+				"check",
+				"--config",
+				"supabase/functions/commerce/deno.json",
+				"supabase/functions/commerce/index.ts"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Test payment fix in Edge function",
+			"type": "shell",
+			"command": "C:\\Users\\geann\\.deno\\bin\\deno.exe",
+			"args": [
+				"test",
+				"-A",
+				"--config",
+				"supabase/functions/commerce/deno.json",
+				"supabase/functions/commerce/test/xendit.test.js"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Deploy Xendit verification fix",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"supabase/deploy-commerce.cjs"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify both orders are paid",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				".vscode/diagnose-xendit-payment.cjs",
+				"IB-3a9b2bde-8f77-4850-9c8b-8ebc873c8566",
+				"IB-af8c3ae2-1087-4d52-a224-da1eca3814c2"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

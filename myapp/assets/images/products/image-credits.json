@@ -1,0 +1,101 @@
+[
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:3MPostItNote2.jpg",
+    "slug": "sticky-notes",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/3MPostItNote2.jpg/960px-3MPostItNote2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Raysonho @ Open Grid Scheduler / Grid Engine",
+    "sourceTitle": "File:3MPostItNote2.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "candidate": "sticky2"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Trousse_-_1.jpg",
+    "slug": "canvas-pencil-case",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Trousse_-_1.jpg/960px-Trousse_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Lionel Allorge",
+    "sourceTitle": "File:Trousse - 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "candidate": "extra6"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Spiralblock-aufgeschlagen.jpg",
+    "slug": "grid-writing-pad",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Spiralblock-aufgeschlagen.jpg/960px-Spiralblock-aufgeschlagen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Chrkl",
+    "sourceTitle": "File:Spiralblock-aufgeschlagen.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "candidate": "extra4"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+    "slug": "minimalist-a5-notebook",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Jan Kahánek",
+    "sourceTitle": "File:A notebook.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "candidate": "notebook1"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Textmarker_mit_verschiedenen_Farben.JPG",
+    "slug": "pastel-highlighters",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Textmarker_mit_verschiedenen_Farben.JPG/960px-Textmarker_mit_verschiedenen_Farben.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "User:Mattes",
+    "sourceTitle": "File:Textmarker mit verschiedenen Farben.JPG",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "candidate": "extra5"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Mechanical_pencil.jpg",
+    "slug": "mechanical-pencil",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "creator": "",
+    "sourceTitle": "File:Mechanical pencil.jpg",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "candidate": "pencil2"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Gamme_Washi_Tape.jpg",
+    "slug": "washi-tape",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gamme_Washi_Tape.jpg/960px-Gamme_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Emile contributor",
+    "sourceTitle": "File:Gamme Washi Tape.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "candidate": "tape1"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Stick-Pens_Colored_30866-480x360_(4904342193).jpg",
+    "slug": "gel-pen-set",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Stick-Pens_Colored_30866-480x360_%284904342193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "creator": "Emilian Robert Vicol from Com. Balanesti, Romania",
+    "sourceTitle": "File:Stick-Pens Colored 30866-480x360 (4904342193).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "candidate": "pens1"
+  },
+  {
+    "representative": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Office-pink-erasers.jpg",
+    "slug": "pastel-erasers",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Office-pink-erasers.jpg/960px-Office-pink-erasers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "creator": "Evan-Amos",
+    "sourceTitle": "File:Office-pink-erasers.jpg",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "candidate": "extra0"
+  }
+]

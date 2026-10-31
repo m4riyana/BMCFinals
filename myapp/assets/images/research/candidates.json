@@ -1,0 +1,1715 @@
+[
+  {
+    "key": "notebook1",
+    "title": "File:A notebook.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 600,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/1920px-A_notebook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/960px-A_notebook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 600,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/A_notebook.jpg/1920px-A_notebook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/A_notebook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_notebook.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106878796",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-06-22 14:37:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "A notebook",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Pencils|Files from external sources with reviewed licenses|Blank notebooks|Images from Unsplash|Open notebooks",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A notebook with a pencil on a probable wooden table",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-01-04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/g3O5ZtRk2E4\">https://unsplash.com/photos/g3O5ZtRk2E4</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Jan Kahánek",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "notebook2",
+    "title": "File:New text notebook (Unsplash).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/960px-New_text_notebook_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 601,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/1920px-New_text_notebook_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/960px-New_text_notebook_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 601,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/New_text_notebook_%28Unsplash%29.jpg/1920px-New_text_notebook_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/New_text_notebook_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:New_text_notebook_(Unsplash).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61849848",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-08-22 05:48:21",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "New text notebook (Unsplash)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Images uploaded by Fæ|Blank notebooks|Images from Unsplash|Images from Unsplash (review needed)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Dana Marin 2016",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-10-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/IThpmszqH7Y\">https://unsplash.com/photos/IThpmszqH7Y</a>\n</p>\n<ul><li><bdi lang=\"en\" dir=\"ltr\" title=\"archived on 5 May 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170505190812/https%3A//unsplash.com/photos/IThpmszqH7Y\">archive copy</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Dana Marin <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@amsterdamian\">amsterdamian</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "pens1",
+    "title": "File:Stick-Pens Colored 30866-480x360 (4904342193).jpg",
+    "info": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Stick-Pens_Colored_30866-480x360_%284904342193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 900,
+      "thumbheight": 675,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Stick-Pens_Colored_30866-480x360_%284904342193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 675
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Stick-Pens_Colored_30866-480x360_%284904342193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stick-Pens_Colored_30866-480x360_(4904342193).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38382877",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-02-14 16:56:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Stick-Pens Colored 30866-480x360 (4904342193)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Gel pens|Flickr images reviewed by FlickreviewR|Files from Emilian Robert Vicol Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>Free Photos – Transparent and Colored Stick Pens / Gel Stick Pen\n</p><p>More photos and details about possible copyright or licensing restrictions here:\n<a rel=\"nofollow\" class=\"external text\" href=\"http://public-photo.net/household/permanent-marker/\">public-photo.net/household/permanent-marker/</a>\nFull Size Up to 3072 x 2304 pixels\n</p>\nInformation Regarding Copyright: public-photo.net/copyright/",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-08-18 09:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/free-stock/4904342193/\">Stick-Pens_Colored_30866-480x360</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/28958738@N06\">Emilian Robert Vicol</a> from Com. Balanesti, Romania",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "pens2",
+    "title": "File:Sakura Gelly Roll 08 Pens.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sakura_Gelly_Roll_08_Pens.jpg/960px-Sakura_Gelly_Roll_08_Pens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 507,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sakura_Gelly_Roll_08_Pens.jpg/1920px-Sakura_Gelly_Roll_08_Pens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sakura_Gelly_Roll_08_Pens.jpg/960px-Sakura_Gelly_Roll_08_Pens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 507,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Sakura_Gelly_Roll_08_Pens.jpg/1920px-Sakura_Gelly_Roll_08_Pens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sakura_Gelly_Roll_08_Pens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sakura_Gelly_Roll_08_Pens.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=158143830",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-01-18 14:25:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Sakura Gelly Roll 08 Pens",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pens|Gel pens|Self-published work|Species of sakura",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Variety of colors of Sakura Gelly Roll pens in 0.8 size - The worlds first Gel-based ink pen",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-01-18",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:TylerDignam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:TylerDignam (page does not exist)\">TylerDignam</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "highlighters1",
+    "title": "File:CreativeTools.se - PackshotCreator - Överstrykningspennor 01 (5078496726).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/960px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 675,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/1920px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/960px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 675,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/1920px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_(5078496726).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138186812",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-09-27 14:59:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "CreativeTools.se - PackshotCreator - Överstrykningspennor 01 (5078496726)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Highlighters|Flickr images reviewed by FlickreviewR 2|Green, orange, red, yellow|Files from Creative Tools Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p><b>English</b>\nImage taken with a &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html\">http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html</a>\" rel=\"nofollow\"&gt;PackshotCreator&lt;/a&gt; photo studio by Creative Tools AB.\n</p><p><b>Swedish</b>\nProduktbild tagen med en &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html\">http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html</a>\" rel=\"nofollow\"&gt;PackshotCreator&lt;/a&gt; fotostudio av Creative Tools AB.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.creativetools.se\">http://www.creativetools.se</a>\" rel=\"nofollow\"&gt;www.creativetools.se&lt;/a&gt;",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-17 12:09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/creative_tools/5078496726/\">CreativeTools.se - PackshotCreator - Överstrykningspennor 01</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33907867@N02\">Creative Tools</a> from Halmstad, Sweden",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "highlighters2",
+    "title": "File:Textmarker mit verschiedenen Farben.JPG",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/960px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 675,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/1920px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/960px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 675,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg/1920px-CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_%285078496726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:CreativeTools.se_-_PackshotCreator_-_%C3%96verstrykningspennor_01_(5078496726).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138186812",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-09-27 14:59:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "CreativeTools.se - PackshotCreator - Överstrykningspennor 01 (5078496726)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Highlighters|Flickr images reviewed by FlickreviewR 2|Green, orange, red, yellow|Files from Creative Tools Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p><b>English</b>\nImage taken with a &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html\">http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html</a>\" rel=\"nofollow\"&gt;PackshotCreator&lt;/a&gt; photo studio by Creative Tools AB.\n</p><p><b>Swedish</b>\nProduktbild tagen med en &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html\">http://www.creativetools.se/hardvara/151-3d-scanning-3d-skrivare-kameror/8313-sysnext-packshotcreator.html</a>\" rel=\"nofollow\"&gt;PackshotCreator&lt;/a&gt; fotostudio av Creative Tools AB.\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.creativetools.se\">http://www.creativetools.se</a>\" rel=\"nofollow\"&gt;www.creativetools.se&lt;/a&gt;",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-09-17 12:09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/creative_tools/5078496726/\">CreativeTools.se - PackshotCreator - Överstrykningspennor 01</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33907867@N02\">Creative Tools</a> from Halmstad, Sweden",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "pencil1",
+    "title": "File:Mechpencil05.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mechpencil05.jpg/960px-Mechpencil05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 528,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mechpencil05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mechpencil05.jpg/960px-Mechpencil05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 528,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mechpencil05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mechpencil05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mechpencil05.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8774999",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2014-05-14 19:32:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Mechpencil05",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-user|Mechanical pencils|Pentel pencils",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/Pentel\" class=\"extiw\" title=\"w:Pentel\">Pentel</a> 0.5mm <a href=\"https://en.wikipedia.org/wiki/mechanical_pencil\" class=\"extiw\" title=\"w:mechanical pencil\">mechanical pencil</a>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-11-09 23:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a class=\"external free\" data-mw-original-href=\"http://en.wikipedia.org/wiki/File:Mechpencil05.jpg\" href=\"https://en.wikipedia.org/wiki/File:Mechpencil05.jpg\">http://en.wikipedia.org/wiki/File:Mechpencil05.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Knulclunk\" class=\"extiw\" title=\"w:User:Knulclunk\">w:User:Knulclunk</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PD-user-w 1%3D%3Aen%3A 2%3Dw 3%3DKnulclunk 4%3D 5%3D 6%3D 7%3D%5B%5B%3Aen%3AUser%3AKnulclunk%7CKnulclunk%5D%5D\"> </span> <span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>This work has been released into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b> by its author, <b><a href=\"https://en.wikipedia.org/wiki/User:Knulclunk\" class=\"extiw\" title=\"en:User:Knulclunk\">Knulclunk</a>, at the <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"en:\">English Wikipedia</a> project</b>. This applies worldwide.<br>\n<p><small>In case this is not legally possible:</small><br> <a href=\"https://en.wikipedia.org/wiki/User:Knulclunk\" class=\"extiw\" title=\"en:User:Knulclunk\">Knulclunk</a> grants anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.\n</p>\n</td></tr></tbody></table>.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "pencil2",
+    "title": "File:Mechanical pencil.jpg",
+    "info": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 900,
+      "thumbheight": 5970,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 5970
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mechanical_pencil.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30587",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2007-12-04 23:19:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Mechanical pencil",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Mechanical pencils|Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|Self-published work|PD-self",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "sticky1",
+    "title": "File:Post it notes.jpg",
+    "info": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 900,
+      "thumbheight": 5970,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 5970
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mechanical_pencil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mechanical_pencil.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=30587",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2007-12-04 23:19:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Mechanical pencil",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Mechanical pencils|Files with no machine-readable author|Files with no machine-readable source|Media missing infobox template|Self-published work|PD-self",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "sticky2",
+    "title": "File:3MPostItNote2.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/3MPostItNote2.jpg/960px-3MPostItNote2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 596,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/3MPostItNote2.jpg/1920px-3MPostItNote2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/3MPostItNote2.jpg/960px-3MPostItNote2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 596,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/3MPostItNote2.jpg/1920px-3MPostItNote2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/3MPostItNote2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:3MPostItNote2.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48116257",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2016-04-10 23:42:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "3MPostItNote2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Post-it notes|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "3M Post-it Note",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-01-23 12:29:08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Raysonho\" title=\"User:Raysonho\">Raysonho @ Open Grid Scheduler / Grid Engine</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "tape1",
+    "title": "File:Gamme Washi Tape.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gamme_Washi_Tape.jpg/960px-Gamme_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 598,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gamme_Washi_Tape.jpg/1920px-Gamme_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gamme_Washi_Tape.jpg/960px-Gamme_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 598,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gamme_Washi_Tape.jpg/1920px-Gamme_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gamme_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gamme_Washi_Tape.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41963754",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-07-30 09:22:38",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Gamme Washi Tape",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Washi|Self-published work|Colorful objects|Blue tapes|Green tapes|Orange tapes|Pink tapes|Purple tapes|Red tapes|Yellow tapes|Washi tapes",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Empilement de Washi Tape de couleurs différentes",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-04-21 10:48:15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Emile_contributor&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Emile contributor (page does not exist)\">Emile contributor</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "tape2",
+    "title": "File:Slim Washi Tape.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Slim_Washi_Tape.jpg/960px-Slim_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 575,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Slim_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Slim_Washi_Tape.jpg/960px-Slim_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 575,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Slim_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Slim_Washi_Tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Slim_Washi_Tape.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41963751",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-07-30 09:22:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Slim Washi Tape",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Green tapes|Washi tapes",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Washi Tape mince de couleur kaki",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-06-02 15:56:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Emile_contributor&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Emile contributor (page does not exist)\">Emile contributor</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "case1",
+    "title": "File:Eastpak astuccio gray.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/960px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 675,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/1920px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/960px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 675,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/1920px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastpak_astuccio_gray.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87449717",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-02-25 10:39:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Eastpak astuccio gray",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Zippers|CC-Zero|Eastpak|Pen and pencil cases|Self-published work|Blue and gray objects|Close-up photographs of textiles",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Astuccio della Eastpak color “jeans”",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-02-25 11:36:48",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gb89.2\" title=\"User:Gb89.2\">Gb89.2</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "case2",
+    "title": "File:Pencil Case - Closed (37896716781).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/960px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 675,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/1920px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/960px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 675,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eastpak_astuccio_gray.jpg/1920px-Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Eastpak_astuccio_gray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastpak_astuccio_gray.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87449717",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-02-25 10:39:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Eastpak astuccio gray",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Zippers|CC-Zero|Eastpak|Pen and pencil cases|Self-published work|Blue and gray objects|Close-up photographs of textiles",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Astuccio della Eastpak color “jeans”",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-02-25 11:36:48",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Gb89.2\" title=\"User:Gb89.2\">Gb89.2</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "grid1",
+    "title": "File:Graph paper notepad (4562203394).jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/960px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 1289,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/1920px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/960px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 1289,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/1920px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Graph_paper_notepad_(4562203394).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57410157",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-03-26 04:22:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Graph paper notepad (4562203394)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Graph paper|Vintage objects|Notepads|Flickr images verified by UploadWizard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Direct scan of a pad of vintage graph paper (color punched a bit) for your texture and layering fun!  It's a big ol' file, so look at the large sizes!\nFree for you to use in your projects; just don't reproduce or harvest and sell as it your own work, please!",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-04-25 15:11:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/calsidyrose/4562203394/\">https://www.flickr.com/photos/calsidyrose/4562203394/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Calsidyrose",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "grid2",
+    "title": "File:Spiralblock-aufgeschlagen.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/960px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 1289,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/1920px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/960px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 1289,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/1920px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Graph_paper_notepad_(4562203394).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57410157",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-03-26 04:22:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Graph paper notepad (4562203394)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Graph paper|Vintage objects|Notepads|Flickr images verified by UploadWizard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Direct scan of a pad of vintage graph paper (color punched a bit) for your texture and layering fun!  It's a big ol' file, so look at the large sizes!\nFree for you to use in your projects; just don't reproduce or harvest and sell as it your own work, please!",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-04-25 15:11:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/calsidyrose/4562203394/\">https://www.flickr.com/photos/calsidyrose/4562203394/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Calsidyrose",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "erasers1",
+    "title": "File:Office-pink-erasers.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/960px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 1289,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/1920px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/960px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 1289,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Graph_paper_notepad_%284562203394%29.jpg/1920px-Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Graph_paper_notepad_%284562203394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Graph_paper_notepad_(4562203394).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57410157",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-03-26 04:22:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Graph paper notepad (4562203394)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Graph paper|Vintage objects|Notepads|Flickr images verified by UploadWizard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Direct scan of a pad of vintage graph paper (color punched a bit) for your texture and layering fun!  It's a big ol' file, so look at the large sizes!\nFree for you to use in your projects; just don't reproduce or harvest and sell as it your own work, please!",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-04-25 15:11:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/calsidyrose/4562203394/\">https://www.flickr.com/photos/calsidyrose/4562203394/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Calsidyrose",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  },
+  {
+    "key": "erasers2",
+    "title": "File:Erasers 2023.jpg",
+    "info": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Erasers_2023.jpg/960px-Erasers_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 900,
+      "thumbheight": 675,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Erasers_2023.jpg/1920px-Erasers_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Erasers_2023.jpg/960px-Erasers_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 900,
+        "height": 675,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Erasers_2023.jpg/1920px-Erasers_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Erasers_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erasers_2023.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=136675060",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-08-31 01:16:00",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Erasers 2023",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Erasers|Self-published work|Photographs taken by Vis M",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Scented colorful pencil erasers",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-08-29 19:13:47",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vis_M\" title=\"User:Vis M\">Vis M</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  }
+]
